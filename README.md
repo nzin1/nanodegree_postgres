@@ -17,7 +17,7 @@ In this project, I applied what I've learned on data modeling with Postgres and 
 
 Using the song and log datasets, I provided a star schema optimized for fast agregations and simplified queries on song play analysis. This includes one fact table of **songplays** and four dimension tables for **users, songs, artists, and time**:
 
-![](pics/my_ERD.png)
+![](pics/my_erd.png)
 
 
 ##### Fact Table
